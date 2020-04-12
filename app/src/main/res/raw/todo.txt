@@ -1,0 +1,41 @@
+Buglist:
+  	- u.a. Palettendoktorfisch ist verbuggt wenn er im letzten Monat ist (Schrift ist nicht in einer Zeile)
+  	    Possible Fix: bei einem Zeilenumbruch im Namen sollen die Ortsangabe und die Uhrzeit nach unten geschoben werden
+
+UI:
+- UI Kategorienspezifisch anzeigen, als würde man eine eigene App start (Farben und THemes etwas anpassen?)
+	
+Funktionen:
+- Github Repo aufsetzen und Maik und Richard zum pushen berechtigen
+- Fische/Insekten/Fossilien Details einfügen (Beschreibungstext von Eugen)
+- Ein Tag "Neu" soll angezeigt werden, wenn ein Tier mit dem aktuellen Monat fangbar geworden ist
+	- salmon und king salmon sind nur einen Monat fangbar. Hier muss sichergestellt sein, dass "letzer Monat" angezeigt wird, ebenso für "firefly"
+- shadow für die Fische in der JSON reworken, damit eine Lokalisierung möglich ist und auf der Detailseite verwendet werden kann
+- Infos über das Kreuzen von Blumen (plus abhaken, welche man schon hat + Filter)
+- Detailansichten swipeable zum nächsten/vorherigen Objekt machen
+- Suchleiste
+- Sortieroptionen
+- Infos über Dorfbewohner
+- Möbel
+- Blumen
+- Guides
+    - Geldbaum
+    - Geld verdienen
+    - Welche Inseln es gibt
+    - Blumen kreuzen
+- Eventstab (Angelturniere, Hässchentag, Geburtstage von Dorfbewohnern/Alerts für bestimmte events setzen)
+- https://turnip.exchange/ einbauen in die App
+- Tauschbörse
+- Infos über alles, was das Wiki hergibt
+- "Cashing App", die einenen die Wertvollsten Tiere, Möbel etc ausfiltern lässt bzw das, was am meisten Geld gibt auflistet
+
+
+
+Vorschläge:
+- per links oder rechts swipen soll man die activity wechseln können
+- Muscheln
+- Darkmode
+- Eventuell Fisch und Insektenansicht zusammenlegen, dass man alles auf einen Blick hat was gerade fangbar ist
+- Lomeus/Carlson Preis anzeigen?
+- Eier
+- Profil (Freundescode, Profilbild?, Frucht im Dorf, Rübenpreis[löscht sich um 6 und 12 Uhr wieder raus, dafür muss die Zeitzone gespeichert werden])

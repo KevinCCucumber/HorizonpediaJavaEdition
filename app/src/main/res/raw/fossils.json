@@ -1,0 +1,586 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "deu": "Acanthostega",
+      "eng": "Acanthostega"
+    },
+    "price": 2000
+  },
+  {
+    "id": 1,
+    "name": {
+      "deu": "Bernstein",
+      "eng": "Amber"
+    },
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "name": {
+      "deu": "Ammonit",
+      "eng": "Ammonite"
+    },
+    "price": 1100
+  },
+  {
+    "id": 3,
+    "name": {
+      "deu": "Anomalocaris",
+      "eng": "Anomalocaris"
+    },
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "name": {
+      "deu": "Archaeopteryx",
+      "eng": "Archaeopteryx"
+    },
+    "price": 1300
+  },
+  {
+    "id": 5,
+    "name": {
+      "deu": "Australopithecus",
+      "eng": "Australopith"
+    },
+    "price": 1100
+  },
+  {
+    "id": 6,
+    "name": {
+      "deu": "Koprolith",
+      "eng": "Coprolite"
+    },
+    "price": 1100
+  },
+  {
+    "id": 7,
+    "name": {
+      "deu": "Dino-Fußabdruck",
+      "eng": "Dinosaur track"
+    },
+    "price": 1000
+  },
+  {
+    "id": 8,
+    "name": {
+      "deu": "Dunkleosteus",
+      "eng": "Dunkleosteus"
+    },
+    "price": 3500
+  },
+  {
+    "id": 9,
+    "name": {
+      "deu": "Eusthenopteron",
+      "eng": "Eusthenopteron"
+    },
+    "price": 2000
+  },
+  {
+    "id": 10,
+    "name": {
+      "deu": "Juramaia",
+      "eng": "Juramaia"
+    },
+    "price": 1000
+  },
+  {
+    "id": 11,
+    "name": {
+      "deu": "Myllokunmingia",
+      "eng": "Myllokunmingia"
+    },
+    "price": 1500
+  },
+  {
+    "id": 12,
+    "name": {
+      "deu": "Haizahnspirale",
+      "eng": "Shark-tooth pattern"
+    },
+    "price": 1000
+  },
+  {
+    "id": 13,
+    "name": {
+      "deu": "Trilobit",
+      "eng": "Trilobite"
+    },
+    "price": 1300
+  },
+  {
+    "id": 14,
+    "name": {
+      "deu": "Ankylosaurus-Schädel",
+      "eng": "Ankylo skull"
+    },
+    "price": 5000
+  },
+  {
+    "id": 15,
+    "name": {
+      "deu": "Ankylosaurus-Torso",
+      "eng": "Ankylo torso"
+    },
+    "price": 3000
+  },
+  {
+    "id": 16,
+    "name": {
+      "deu": "Ankylosaurus-Schwanz",
+      "eng": "Ankylo tail"
+    },
+    "price": 2500
+  },
+  {
+    "id": 17,
+    "name": {
+      "deu": "Archelon-Vorderteil",
+      "eng": "Archelon skull"
+    },
+    "price": 4000
+  },
+  {
+    "id": 18,
+    "name": {
+      "deu": "Archelon-Hinterteil",
+      "eng": "Archelon tail"
+    },
+    "price": 3500
+  },
+  {
+    "id": 19,
+    "name": {
+      "deu": "Brachiosaurus-Schädel",
+      "eng": "Brachio skull"
+    },
+    "price": 6000
+  },
+  {
+    "id": 20,
+    "name": {
+      "deu": "Brachiosaurus-Thorax",
+      "eng": "Brachio chest"
+    },
+    "price": 5500
+  },
+  {
+    "id": 21,
+    "name": {
+      "deu": "Brachiosarus-Becken",
+      "eng": "Brachio pelvis"
+    },
+    "price": 5000
+  },
+  {
+    "id": 22,
+    "name": {
+      "deu": "Brachiosaurus-Schwanz",
+      "eng": "Brachio tail"
+    },
+    "price": 5500
+  },
+  {
+    "id": 23,
+    "name": {
+      "deu": "Deinonychus-Torso",
+      "eng": "Deinony torso"
+    },
+    "price": 3000
+  },
+  {
+    "id": 24,
+    "name": {
+      "deu": "Deinonychus-Schwanz",
+      "eng": "Deinony tail"
+    },
+    "price": 2500
+  },
+  {
+    "id": 25,
+    "name": {
+      "deu": "Dimetrodon-Schädel",
+      "eng": "Dimetrodon skull"
+    },
+    "price": 5500
+  },
+  {
+    "id": 26,
+    "name": {
+      "deu": "Dimetrodon-Torso",
+      "eng": "Dimetrodon torso"
+    },
+    "price": 5000
+  },
+  {
+    "id": 27,
+    "name": {
+      "deu": "Diplodocus-Schädel",
+      "eng": "Diplo skull"
+    },
+    "price": 5000
+  },
+  {
+    "id": 28,
+    "name": {
+      "deu": "Diplodocus-Hals",
+      "eng": "Diplo neck"
+    },
+    "price": 4500
+  },
+  {
+    "id": 29,
+    "name": {
+      "deu": "Diplodocus-Thorax",
+      "eng": "Diplo chest"
+    },
+    "price": 4000
+  },
+  {
+    "id": 30,
+    "name": {
+      "deu": "Diplodocus-Becken",
+      "eng": "Diplo pelvis"
+    },
+    "price": 4500
+  },
+  {
+    "id": 31,
+    "name": {
+      "deu": "Diplodocus-Schwanz",
+      "eng": "Diplo tail"
+    },
+    "price": 5000
+  },
+  {
+    "id": 32,
+    "name": {
+      "deu": "Diplodocus-Schwanzspitze",
+      "eng": "Diplo tail tip"
+    },
+    "price": 4000
+  },
+  {
+    "id": 33,
+    "name": {
+      "deu": "Iguanodon-Schädel",
+      "eng": "Iguanodon skull"
+    },
+    "price": 4000
+  },
+  {
+    "id": 34,
+    "name": {
+      "deu": "Iguanodon-Torso",
+      "eng": "Iguanodon torso"
+    },
+    "price": 3500
+  },
+  {
+    "id": 35,
+    "name": {
+      "deu": "Iguanodon-Schwanz",
+      "eng": "Iguanodon tail"
+    },
+    "price": 3000
+  },
+  {
+    "id": 36,
+    "name": {
+      "deu": "Mammut-Schädel",
+      "eng": "Mammoth skull"
+    },
+    "price": 3000
+  },
+  {
+    "id": 37,
+    "name": {
+      "deu": "Mammut-Torso",
+      "eng": "Mammoth torso"
+    },
+    "price": 2500
+  },
+  {
+    "id": 38,
+    "name": {
+      "deu": "Megacerops-Schädel",
+      "eng": "Megacero skull"
+    },
+    "price": 4500
+  },
+  {
+    "id": 39,
+    "name": {
+      "deu": "Megacerops-Torso",
+      "eng": "Megacero torso"
+    },
+    "price": 3500
+  },
+  {
+    "id": 40,
+    "name": {
+      "deu": "Megacerops-Schwanz",
+      "eng": "Megacero tail"
+    },
+    "price": 3000
+  },
+  {
+    "id": 41,
+    "name": {
+      "deu": "Riesenhirsch-Hälfte (L)",
+      "eng": "Left megalo side"
+    },
+    "price": 4000
+  },
+  {
+    "id": 42,
+    "name": {
+      "deu": "Riesenhirsch-Hälfte (R)",
+      "eng": "Right megalo side"
+    },
+    "price": 5500
+  },
+  {
+    "id": 43,
+    "name": {
+      "deu": "Ophthalmosaurus-Schädel",
+      "eng": "Ophthalmo skull"
+    },
+    "price": 2500
+  },
+  {
+    "id": 44,
+    "name": {
+      "deu": "Ophthalmosaurus-Torso",
+      "eng": "Ophthalmo torso"
+    },
+    "price": 2000
+  },
+  {
+    "id": 45,
+    "name": {
+      "deu": "Pachysaurus-Vorderteil",
+      "eng": "Pachysaurus skull"
+    },
+    "price": 4000
+  },
+  {
+    "id": 46,
+    "name": {
+      "deu": "Pachysaurus-Hinterteil",
+      "eng": "Pachysaurus tail"
+    },
+    "price": 3500
+  },
+  {
+    "id": 47,
+    "name": {
+      "deu": "Parasaurus-Schädel",
+      "eng": "Parasaur skull"
+    },
+    "price": 3500
+  },
+  {
+    "id": 48,
+    "name": {
+      "deu": "Parasaurus-Torso",
+      "eng": "Parasaur torso"
+    },
+    "price": 3000
+  },
+  {
+    "id": 49,
+    "name": {
+      "deu": "Parasaurus-Schwanz",
+      "eng": "Parasaur tail"
+    },
+    "price": 2500
+  },
+  {
+    "id": 50,
+    "name": {
+      "deu": "Plesiosaurus-Schädel",
+      "eng": "Plesio skull"
+    },
+    "price": 4000
+  },
+  {
+    "id": 51,
+    "name": {
+      "deu": "Plesiosaurus-Schwanz",
+      "eng": "Plesio tail"
+    },
+    "price": 4500
+  },
+  {
+    "id": 52,
+    "name": {
+      "deu": "Plesiosaurus-Torso",
+      "eng": "Plesio body"
+    },
+    "price": 4500
+  },
+  {
+    "id": 53,
+    "name": {
+      "deu": "Pteranodon-Flügel (R)",
+      "eng": "Right ptera wing"
+    },
+    "price": 4500
+  },
+  {
+    "id": 54,
+    "name": {
+      "deu": "Pteranodon-Torso",
+      "eng": "Ptera body"
+    },
+    "price": 4000
+  },
+  {
+    "id": 55,
+    "name": {
+      "deu": "Pteranodon-Flügel (L)",
+      "eng": "Left ptera wing"
+    },
+    "price": 4500
+  },
+  {
+    "id": 56,
+    "name": {
+      "deu": "Quetzalcoatlus-Flügel (R)",
+      "eng": "Right quetzal wing"
+    },
+    "price": 5000
+  },
+  {
+    "id": 57,
+    "name": {
+      "deu": "Quetzalcoatlus-Torso",
+      "eng": "Quetzal torso"
+    },
+    "price": 4500
+  },
+  {
+    "id": 58,
+    "name": {
+      "deu": "Quetzalcoatlus-Flügel (L)",
+      "eng": "Left quetzal wing"
+    },
+    "price": 5000
+  },
+  {
+    "id": 59,
+    "name": {
+      "deu": "Säbelzahn-Vorderteil",
+      "eng": "Sabertooth skull"
+    },
+    "price": 2500
+  },
+  {
+    "id": 60,
+    "name": {
+      "deu": "Säbelzahn-Hinterteil",
+      "eng": "Sabertooth tail"
+    },
+    "price": 2000
+  },
+  {
+    "id": 61,
+    "name": {
+      "deu": "Spinosaurus-Schädel",
+      "eng": "Spino skull"
+    },
+    "price": 4000
+  },
+  {
+    "id": 62,
+    "name": {
+      "deu": "Spinosaurus-Torso",
+      "eng": "Spino torso"
+    },
+    "price": 5000
+  },
+  {
+    "id": 63,
+    "name": {
+      "deu": "Spinosaurus-Schwanz",
+      "eng": "Spino tail"
+    },
+    "price": 4000
+  },
+  {
+    "id": 64,
+    "name": {
+      "deu": "Stegosaurus-Schädel",
+      "eng": "Stego skull"
+    },
+    "price": 5000
+  },
+  {
+    "id": 65,
+    "name": {
+      "deu": "Stegosaurus-Torso",
+      "eng": "Stego torso"
+    },
+    "price": 4500
+  },
+  {
+    "id": 66,
+    "name": {
+      "deu": "Stegosaurus-Schwanz",
+      "eng": "Stego tail"
+    },
+    "price": 4000
+  },
+  {
+    "id": 67,
+    "name": {
+      "deu": "Triceratops-Schädel",
+      "eng": "Tricera skull"
+    },
+    "price": 5500
+  },
+  {
+    "id": 68,
+    "name": {
+      "deu": "Triceratops-Torso",
+      "eng": "Tricera torso"
+    },
+    "price": 5000
+  },
+  {
+    "id": 69,
+    "name": {
+      "deu": "Triceratops-Schwanz",
+      "eng": "Tricera tail"
+    },
+    "price": 4500
+  },
+  {
+    "id": 70,
+    "name": {
+      "deu": "T-Rex-Schädel",
+      "eng": "T. rex skull"
+    },
+    "price": 6000
+  },
+  {
+    "id": 71,
+    "name": {
+      "deu": "T-Rex-Torso",
+      "eng": "T. rex torso"
+    },
+    "price": 5500
+  },
+  {
+    "id": 72,
+    "name": {
+      "deu": "T-Rex-Schwanz",
+      "eng": "T. rex tail"
+    },
+    "price": 5000
+  }
+]

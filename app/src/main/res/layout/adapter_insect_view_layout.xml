@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="2dp"
+        android:id="@+id/iconview"
+        android:layout_weight="85"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="60dp"
+        android:layout_weight="15">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="45">
+            <TextView
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="Name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nameview"
+                android:textSize="20dp"
+                android:layout_weight="20"/>
+            <TextView
+                android:gravity="right"
+                android:layout_marginRight="5dp"
+                android:text="@string/lastMonth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF0000"
+                android:id="@+id/lastmonthview"
+                android:layout_below="@+id/nameview"/>
+            <TextView
+                android:gravity="right"
+                android:text="Price"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/priceview"
+                android:layout_below="@+id/nameview"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="55">
+            <TextView
+                android:gravity="left"
+                android:text="Location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/locationview"
+                android:layout_below="@+id/nameview"
+                android:layout_weight="35"/>
+            <TextView
+                android:gravity="right"
+                android:text="Time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/timeview"
+                android:layout_below="@+id/nameview"
+                android:layout_weight="65"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

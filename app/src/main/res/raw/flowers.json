@@ -1,0 +1,727 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "deu": "Rotcosmea",
+      "eng": "red cosmos"
+    },
+    "sources": []
+  },
+  {
+    "id": 1,
+    "name": {
+      "deu": "Weißcosmea",
+      "eng": "white cosmos"
+    },
+    "sources": []
+  },
+  {
+    "id": 2,
+    "name": {
+      "deu": "Gelbcosmea",
+      "eng": "yellow cosmos"
+    },
+    "sources": []
+  },
+  {
+    "id": 3,
+    "name": {
+      "deu": "Pinkcosmea",
+      "eng": "pink cosmos"
+    },
+    "sources": [
+      {
+        "flowers": [
+          0,
+          1
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "deu": "Orangecosmea",
+      "eng": "orange cosmos"
+    },
+    "sources": [
+      {
+        "flowers": [
+          0,
+          2
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "deu": "Schwarzcosmea",
+      "eng": "black cosmos"
+    },
+    "sources": [
+      {
+        "flowers": [
+          0,
+          0
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": {
+      "deu": "Triumphtulpe",
+      "eng": "white tulips"
+    },
+    "sources": []
+  },
+  {
+    "id": 7,
+    "name": {
+      "deu": "Papageitulpe",
+      "eng": "red tulips"
+    },
+    "sources": []
+  },
+  {
+    "id": 8,
+    "name": {
+      "deu": "Viridifloratulpe",
+      "eng": "yellow tulips"
+    },
+    "sources": []
+  },
+  {
+    "id": 9,
+    "name": {
+      "deu": "Grengjer-Tulpe",
+      "eng": "pink tulips"
+    },
+    "sources": [
+      {
+        "flowers": [
+          7,
+          6
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "deu": "Korallentulpe",
+      "eng": "orange tulips"
+    },
+    "sources": [
+      {
+        "flowers": [
+          7,
+          8
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": {
+      "deu": "Wildtulpe",
+      "eng": "purple tulips"
+    },
+    "sources": [
+      {
+        "flowers": [
+          10,
+          10
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": {
+      "deu": "Römertulpe",
+      "eng": "black tulips"
+    },
+    "sources": [
+      {
+        "flowers": [
+          7,
+          7
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": {
+      "deu": "Hornveilchen",
+      "eng": "yellow pansies"
+    },
+    "sources": []
+  },
+  {
+    "id": 14,
+    "name": {
+      "deu": "Alpenveilchen",
+      "eng": "red pansies"
+    },
+    "sources": []
+  },
+  {
+    "id": 15,
+    "name": {
+      "deu": "Pfingstveilchen",
+      "eng": "white pansies"
+    },
+    "sources": []
+  },
+  {
+    "id": 16,
+    "name": {
+      "deu": "Stiefmütterchen",
+      "eng": "orange pansies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          14,
+          13
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": {
+      "deu": "Hainveilchen",
+      "eng": "purple pansies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          18,
+          18
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      },
+      {
+        "flowers": [
+          14,
+          14
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": {
+      "deu": "Duftveilchen",
+      "eng": "blue pansies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          15,
+          15
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "deu": "Unschuldsrose",
+      "eng": "white roses"
+    },
+    "sources": []
+  },
+  {
+    "id": 20,
+    "name": {
+      "deu": "Liebesrose",
+      "eng": "red roses"
+    },
+    "sources": []
+  },
+  {
+    "id": 21,
+    "name": {
+      "deu": "Bernsteinrose",
+      "eng": "yellow roses"
+    },
+    "sources": []
+  },
+  {
+    "id": 22,
+    "name": {
+      "deu": "Pinkrose",
+      "eng": "pink roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          20,
+          19
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": {
+      "deu": "Sonnenrose",
+      "eng": "orange roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          20,
+          21
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": {
+      "deu": "Lilarose",
+      "eng": "purple roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          19,
+          19
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": {
+      "deu": "Schwarzrose",
+      "eng": "black roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          20,
+          20
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      },
+      {
+        "flowers": [
+          22,
+          22
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "deu": "Blaurose",
+      "eng": "blue roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          20,
+          20
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": {
+      "deu": "Goldrose",
+      "eng": "gold roses"
+    },
+    "sources": [
+      {
+        "flowers": [
+          25,
+          25
+        ],
+        "requires_gold_watering_can": true,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": {
+      "deu": "Osterlilie",
+      "eng": "white lilies"
+    },
+    "sources": []
+  },
+  {
+    "id": 29,
+    "name": {
+      "deu": "Rotlilie",
+      "eng": "red lilies"
+    },
+    "sources": []
+  },
+  {
+    "id": 30,
+    "name": {
+      "deu": "Pyrenäenlilie",
+      "eng": "yellow lilies"
+    },
+    "sources": []
+  },
+  {
+    "id": 31,
+    "name": {
+      "deu": "Türkenbundlilie",
+      "eng": "pink lilies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          29,
+          28
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": {
+      "deu": "Feuerlilie",
+      "eng": "orange lilies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          29,
+          30
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": {
+      "deu": "Dunkellilie",
+      "eng": "black lilies"
+    },
+    "sources": [
+      {
+        "flowers": [
+          29,
+          29
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": {
+      "deu": "Weißanemone",
+      "eng": "white windflowers"
+    },
+    "sources": []
+  },
+  {
+    "id": 35,
+    "name": {
+      "deu": "Orangeanemone",
+      "eng": "orange windflowers"
+    },
+    "sources": []
+  },
+  {
+    "id": 36,
+    "name": {
+      "deu": "Rotanemone",
+      "eng": "red windflowers"
+    },
+    "sources": []
+  },
+  {
+    "id": 37,
+    "name": {
+      "deu": "Blauanemone",
+      "eng": "blue windflowers"
+    },
+    "sources": [
+      {
+        "flowers": [
+          34,
+          34
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      },
+      {
+        "flowers": [
+          34,
+          35
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": {
+      "deu": "Pinkanemone",
+      "eng": "pink windflowers"
+    },
+    "sources": [
+      {
+        "flowers": [
+          35,
+          36
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": {
+      "deu": "Purpuranemone",
+      "eng": "purple windflowers"
+    },
+    "sources": [
+      {
+        "flowers": [
+          38,
+          37
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      },
+      {
+        "flowers": [
+          37,
+          37
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      },
+      {
+        "flowers": [
+          34,
+          37
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": {
+      "deu": "Weißhyazinthe",
+      "eng": "white hyacinths"
+    },
+    "sources": []
+  },
+  {
+    "id": 41,
+    "name": {
+      "deu": "Gelbhyazinthe",
+      "eng": "yellow hyacinths"
+    },
+    "sources": []
+  },
+  {
+    "id": 42,
+    "name": {
+      "deu": "Rothyazinthe",
+      "eng": "red hyacinths"
+    },
+    "sources": []
+  },
+  {
+    "id": 43,
+    "name": {
+      "deu": "Rosahyazinthe",
+      "eng": "pink hyacinths"
+    },
+    "sources": [
+      {
+        "flowers": [
+          42,
+          40
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": {
+      "deu": "Orangehyazinthe",
+      "eng": "orange hyacinths"
+    },
+    "sources": [
+      {
+        "flowers": [
+          42,
+          41
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": {
+      "deu": "Blauhyazinthe",
+      "eng": "blue hyacinths"
+    },
+    "sources": [
+      {
+        "flowers": [
+          40,
+          40
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": {
+      "deu": "Purpurhyazinthe",
+      "eng": "purple hyacinths"
+    },
+    "sources": [
+      {
+        "flowers": [
+          45,
+          45
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": {
+      "deu": "Weißchrysantheme",
+      "eng": "white mums"
+    },
+    "sources": []
+  },
+  {
+    "id": 48,
+    "name": {
+      "deu": "Gelbchrysantheme",
+      "eng": "yellow mums"
+    },
+    "sources": []
+  },
+  {
+    "id": 49,
+    "name": {
+      "deu": "Rotchrysantheme",
+      "eng": "red mums"
+    },
+    "sources": []
+  },
+  {
+    "id": 50,
+    "name": {
+      "deu": "Lilachrysantheme",
+      "eng": "purple mums"
+    },
+    "sources": [
+      {
+        "flowers": [
+          47,
+          47
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": {
+      "deu": "Rosachrysantheme",
+      "eng": "pink mums"
+    },
+    "sources": [
+      {
+        "flowers": [
+          47,
+          49
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": {
+      "deu": "Grünchrysantheme",
+      "eng": "green mums"
+    },
+    "sources": [
+      {
+        "flowers": [
+          50,
+          50
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  }
+]

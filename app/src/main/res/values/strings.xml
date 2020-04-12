@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">ACNH Companion</string>
+    <string name="disclaimer">All rights on the animal- and fossilepictures reserved by Nintendo. Animal Crossing trademark is owned by Nintendo. The Artworks for the main manu are create by Felix Arndt.</string>
+    <string name="buttonFish">Fishes</string>
+    <string name="buttonInsects">Insects</string>
+    <string name="buttonFossils">Fossils</string>
+    <string name="buttonFlowers">Flowers</string>
+    <string name="buttonSettings">Settings</string>
+    <string name="buttonDiscord">Community</string>
+    <string name="txtcon">Welcome to your NookPhone</string>
+    <string name="checkboxcurrent">Currently catchable</string>
+    <string name="checkboxtoday">Catchable Today</string>
+    <string name="checkboxfiltercaught">Don\'t show caught</string>
+    <string name="checkboxfilterobtained">Don\'t show obtained</string>
+    <string name="isCaught">Got it!</string>
+    <string name="isObtained">Got it!</string>
+    <string name="optionSouthern">Southern hemisphere</string>
+    <string name="lastMonth">last Month!</string>
+    <string name="title_activity_settings">Settings:</string>
+    <string name="januar">January</string>
+    <string name="februar">Febuary</string>
+    <string name="märz">March</string>
+    <string name="april">April</string>
+    <string name="mai">May</string>
+    <string name="juni">June</string>
+    <string name="juli">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="oktober">October</string>
+    <string name="november">November</string>
+    <string name="dezember">December</string>
+    <string name="saison">Seasons</string>
+    <string name="uhrzeit">Time</string>
+    <string name="location">Location</string>
+    <string name="price">Price</string>
+    <string name="eugenstext">Eugens Description</string>
+    <string name="size">Size</string>
+    <string name="size1">tiny</string>
+    <string name="size2">small</string>
+    <string name="size3">medium</string>
+    <string name="size4">big</string>
+    <string name="size5">very big</string>
+    <string name="size6">huge</string>
+    <string name="narrow">narrow</string>
+    <string name="fin">(fin)</string>
+    <string name="flowertypemustbeBred">Must be a bred flower</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

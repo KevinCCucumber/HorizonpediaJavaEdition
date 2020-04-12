@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="2dp"
+        android:id="@+id/iconviewflower"
+        android:layout_weight="85"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="60dp"
+        android:layout_weight="15">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="45">
+            <TextView
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="Name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nameviewflower"
+                android:textSize="20dp"
+                android:layout_weight="20"/>
+            <TextView
+                android:gravity="left"
+                android:text="Type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/typeviewflower"
+                android:layout_below="@+id/nameviewflower"
+                android:layout_weight="35"/>
+
+
+        </LinearLayout>
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:visibility="gone"
+            android:id="@+id/goldencan"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="85">
+            <TextView
+                android:gravity="center"
+                android:textAlignment="gravity"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/relative1view"
+                android:layout_weight="20"/>
+            <TextView
+                android:gravity="center_horizontal"
+                android:textAlignment="gravity"
+                android:visibility="invisible"
+                android:id="@+id/viewX"
+                android:text="x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50sp"/>
+            <TextView
+                android:gravity="center"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/relative2view"
+                android:layout_weight="35"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,4166 @@
+[
+  {
+    "caught": false,
+    "id": 0,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Bitterling",
+      "eng": "Bitterling"
+    },
+    "price": 900,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 1,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Döbel",
+      "eng": "Pale chub"
+    },
+    "price": 200,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 2,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Karausche",
+      "eng": "Crucian carp"
+    },
+    "price": 160,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 3,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Hasel",
+      "eng": "Dace"
+    },
+    "price": 240,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 4,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Karpfen",
+      "eng": "Carp"
+    },
+    "price": 300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 5,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Koi-Karpfen",
+      "eng": "Koi"
+    },
+    "price": 4000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 6,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Goldfisch",
+      "eng": "Goldfish"
+    },
+    "price": 1300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 7,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Teleskopauge",
+      "eng": "Pop-eyed goldfish"
+    },
+    "price": 1300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 8,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Ranchu",
+      "eng": "Ranchu goldfish"
+    },
+    "price": 4500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 9,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Kilifisch",
+      "eng": "Killifish"
+    },
+    "price": 300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 10,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Flusskrebs",
+      "eng": "Crawfish"
+    },
+    "price": 200,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 11,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Weichschildkröte",
+      "eng": "Soft-shelled turtle"
+    },
+    "price": 3750,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 12,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Schnappschildkröte",
+      "eng": "Snapping turtle"
+    },
+    "price": 5000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        21,
+        4
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 13,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Kaulquappe",
+      "eng": "Tadpole"
+    },
+    "price": 100,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 14,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Frosch",
+      "eng": "Frog"
+    },
+    "price": 120,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 15,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Flussgrundel",
+      "eng": "Freshwater goby"
+    },
+    "price": 400,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 16,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "name": {
+      "deu": "Bachschmerle",
+      "eng": "Loach"
+    },
+    "price": 400,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 17,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Katzenwels",
+      "eng": "Catfish"
+    },
+    "price": 800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 18,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Schlangenkopf",
+      "eng": "Giant snakehead"
+    },
+    "price": 5500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 19,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Sonnenbarsch",
+      "eng": "Bluegill"
+    },
+    "price": 180,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 20,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Flussbarsch",
+      "eng": "Yellow perch"
+    },
+    "price": 300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 21,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Barsch",
+      "eng": "Black bass"
+    },
+    "price": 400,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 22,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Tilapia",
+      "eng": "Tilapia"
+    },
+    "price": 800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 23,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Hecht",
+      "eng": "Pike"
+    },
+    "price": 1800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 24,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Stint",
+      "eng": "Pond smelt"
+    },
+    "price": 500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 25,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Ayu",
+      "eng": "Sweetfish"
+    },
+    "price": 900,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 26,
+    "location": {
+      "deu": "Teich oberhalb Wasserfall",
+      "eng": "River (Clifftop)  Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Masulachs",
+      "eng": "Cherry salmon"
+    },
+    "price": 1000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 27,
+    "location": {
+      "deu": "Teich oberhalb Wasserfall",
+      "eng": "River (Clifftop)  Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Saibling",
+      "eng": "Char"
+    },
+    "price": 3800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 28,
+    "location": {
+      "deu": "Fluss oberhalb Wasserfall",
+      "eng": "River (Clifftop)"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "name": {
+      "deu": "Goldforelle",
+      "eng": "Golden trout"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 29,
+    "location": {
+      "deu": "Fluss oberhalb Wasserfall",
+      "eng": "River (Clifftop)"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Huchen",
+      "eng": "Stringfish"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 30,
+    "location": {
+      "deu": "Flussmündung",
+      "eng": "River (Mouth)"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Lachs",
+      "eng": "Salmon"
+    },
+    "price": 700,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 31,
+    "location": {
+      "deu": "Flussmündung",
+      "eng": "River (Mouth)"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Königslachs",
+      "eng": "King salmon"
+    },
+    "price": 1800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 32,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Wollhandkrabbe",
+      "eng": "Mitten crab"
+    },
+    "price": 2000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 33,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Guppy",
+      "eng": "Guppy"
+    },
+    "price": 1300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 34,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Saugbarbe",
+      "eng": "Nibble fish"
+    },
+    "price": 1500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 35,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Skalar",
+      "eng": "Angelfish"
+    },
+    "price": 3000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 36,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Kampffisch",
+      "eng": "Betta"
+    },
+    "price": 2500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 37,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Neonsalmler",
+      "eng": "Neon tetra"
+    },
+    "price": 500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 38,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Regenbogenfisch",
+      "eng": "Rainbowfish"
+    },
+    "price": 800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        9,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 39,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Piranha",
+      "eng": "Piranha"
+    },
+    "price": 2500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        9,
+        16
+      ],
+      [
+        21,
+        16
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 40,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Arowana",
+      "eng": "Arowana"
+    },
+    "price": 10000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 41,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Lachssalmler",
+      "eng": "Dorado"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        4,
+        21
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 42,
+    "location": {
+      "deu": "Teich",
+      "eng": "Pond"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Knochenhecht",
+      "eng": "Gar"
+    },
+    "price": 6000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 43,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Arapaima",
+      "eng": "Arapaima"
+    },
+    "price": 10000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 44,
+    "location": {
+      "deu": "Fluss",
+      "eng": "River"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Flösselhecht",
+      "eng": "Saddled bichir"
+    },
+    "price": 4000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        21,
+        4
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 45,
+    "location": {
+      "deu": "Flussmündung",
+      "eng": "River (Mouth)"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Stör",
+      "eng": "Sturgeon"
+    },
+    "price": 10000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 46,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "See-Engel",
+      "eng": "Sea butterfly"
+    },
+    "price": 1000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 47,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Seepferdchen",
+      "eng": "Seahorse"
+    },
+    "price": 1100,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 48,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Anemonenfisch",
+      "eng": "Clownfish"
+    },
+    "price": 650,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 49,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Paletten-Doktorfisch",
+      "eng": "Surgeonfish"
+    },
+    "price": 1000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 50,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Falterfisch",
+      "eng": "Butterfly fish"
+    },
+    "price": 1000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 51,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Napoleonfisch",
+      "eng": "Napoleonfish"
+    },
+    "price": 10000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        4,
+        21
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 52,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Rotfeuerfisch",
+      "eng": "Zebra turkeyfish"
+    },
+    "price": 500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 53,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Kugelfisch",
+      "eng": "Blowfish"
+    },
+    "price": 5000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        18,
+        4
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 54,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Igelfisch",
+      "eng": "Puffer fish"
+    },
+    "price": 250,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 55,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Sardelle",
+      "eng": "Anchovy"
+    },
+    "price": 200,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        4,
+        21
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 56,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Makrele",
+      "eng": "Horse mackerel"
+    },
+    "price": 150,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 57,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Schnabelbarsch",
+      "eng": "Barred knifejaw"
+    },
+    "price": 5000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 58,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Seebarsch",
+      "eng": "Sea bass"
+    },
+    "price": 400,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 59,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Kaiserschnapper",
+      "eng": "Red snapper"
+    },
+    "price": 3000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 60,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Kliesche",
+      "eng": "Dab"
+    },
+    "price": 300,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 61,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Flunder",
+      "eng": "Olive flounder"
+    },
+    "price": 800,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 62,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Kalmar",
+      "eng": "Squid"
+    },
+    "price": 500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 3
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 63,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Muräne",
+      "eng": "Moray eel"
+    },
+    "price": 2000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": true,
+      "size": -1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 64,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Nasenmuräne",
+      "eng": "Ribbon eel"
+    },
+    "price": 600,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": true,
+      "size": -1
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 65,
+    "location": {
+      "deu": "Steg",
+      "eng": "Pier"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Thunfisch",
+      "eng": "Tuna"
+    },
+    "price": 7000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 66,
+    "location": {
+      "deu": "Steg",
+      "eng": "Pier"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Marlin",
+      "eng": "Blue marlin"
+    },
+    "price": 10000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 67,
+    "location": {
+      "deu": "Steg",
+      "eng": "Pier"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Stachelmakrele",
+      "eng": "Giant trevally"
+    },
+    "price": 4500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 68,
+    "location": {
+      "deu": "Steg",
+      "eng": "Pier"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Goldmakrele",
+      "eng": "Mahi-mahi"
+    },
+    "price": 6000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 69,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Mondfisch",
+      "eng": "Ocean sunfish"
+    },
+    "price": 4000,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        4,
+        21
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 70,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "months_south": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Rochen",
+      "eng": "Ray"
+    },
+    "price": 3000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 5
+    },
+    "time": [
+      [
+        4,
+        21
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 71,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Sägehai",
+      "eng": "Saw shark"
+    },
+    "price": 12000,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 72,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Hammerhai",
+      "eng": "Hammerhead shark"
+    },
+    "price": 8000,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 73,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Hai",
+      "eng": "Shark|Great white shark"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 74,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Walhai",
+      "eng": "Whale shark"
+    },
+    "price": 13000,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 75,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "name": {
+      "deu": "Schiffshalter",
+      "eng": "Suckerfish"
+    },
+    "price": 1500,
+    "shadow": {
+      "has_fin": true,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 76,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "name": {
+      "deu": "Anglerfisch",
+      "eng": "Football fish"
+    },
+    "price": 2500,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 4
+    },
+    "time": [
+      [
+        16,
+        9
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 77,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "months_south": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "name": {
+      "deu": "Riemenfisch",
+      "eng": "Oarfish"
+    },
+    "price": 9000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 78,
+    "location": {
+      "deu": "Meer",
+      "eng": "Sea"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Glaskopffisch",
+      "eng": "Barreleye"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 2
+    },
+    "time": [
+      [
+        21,
+        4
+      ]
+    ]
+  },
+  {
+    "caught": false,
+    "id": 79,
+    "location": {
+      "deu": "Meer (Regen)",
+      "eng": "Sea (Raining)"
+    },
+    "months_north": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "months_south": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "name": {
+      "deu": "Quastenflosser",
+      "eng": "Coelacanth"
+    },
+    "price": 15000,
+    "shadow": {
+      "has_fin": false,
+      "is_narrow": false,
+      "size": 6
+    },
+    "time": [
+      [
+        0,
+        24
+      ]
+    ]
+  }
+]
