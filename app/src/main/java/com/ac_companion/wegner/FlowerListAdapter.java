@@ -13,8 +13,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 
 public class FlowerListAdapter extends ArrayAdapter<Flower> {
@@ -46,34 +44,57 @@ public class FlowerListAdapter extends ArrayAdapter<Flower> {
         ImageView ivBild = convertView.findViewById(R.id.iconviewflower);
         TextView tvName = convertView.findViewById(R.id.nameviewflower);
         TextView tvType = convertView.findViewById(R.id.typeviewflower);
-        TextView tvRelative1 = convertView.findViewById(R.id.relative1view);
-        TextView tvRelative2 = convertView.findViewById(R.id.relative2view);
-        TextView tvX = convertView.findViewById(R.id.viewX);
+        ImageView tvRelative1_1 = convertView.findViewById(R.id.relative1view1);
+        ImageView tvRelative1_2 = convertView.findViewById(R.id.relative1view2);
+        ImageView tvRelative2_1 = convertView.findViewById(R.id.relative2view1);
+        ImageView tvRelative2_2 = convertView.findViewById(R.id.relative2view2);
+        ImageView tvRelative3_1 = convertView.findViewById(R.id.relative3view1);
+        ImageView tvRelative3_2 = convertView.findViewById(R.id.relative3view2);
+        TextView tvX0 = convertView.findViewById(R.id.viewX1);
+        TextView tvX1 = convertView.findViewById(R.id.viewX2);
+        TextView tvX2 = convertView.findViewById(R.id.viewX3);
         ImageView ivNeedsCan = convertView.findViewById(R.id.goldencan);
 
         ivBild.setImageResource(getItem(position).getImgID());
         tvName.setText(name);
         tvType.setText(type);
 
-        if (!getItem(position).getRelatives().isEmpty()){
-            tvRelative1.setVisibility(View.VISIBLE);
-            tvRelative2.setVisibility(View.VISIBLE);
-            tvX.setVisibility(View.VISIBLE);
-        }
         if (getItem(position).getNeedsGoldenCan()){
             ivNeedsCan.setVisibility(View.VISIBLE);
             ivNeedsCan.setImageResource(R.drawable.toolwateringgold);
         }
-        int relative1ID, relative2ID;
+
+        int relative1_1ID = -1, relative1_2ID = -1, relative2_1ID = -1, relative2_2ID = -1, relative3_1ID = -1, relative3_2ID = -1;
         ArrayList<Integer> relatives;
         relatives = getItem(position).getRelatives();
-        relative1ID = relatives.get(0);
-        relative2ID = relatives.get(1);
-        Util.getGlobalFlowerList().get(relative1ID).getName();
 
-        tvRelative1.setText(Util.getGlobalFlowerList().get(relative1ID).getName());
-        tvRelative2.setText(Util.getGlobalFlowerList().get(relative2ID).getName());
-        tvX.setVisibility(View.VISIBLE);
+        for (int i = 0; i<relatives.size();i++) {
+            switch (i){
+                case 0:  relative1_1ID = relatives.get(i);
+                    tvX0.setVisibility(View.VISIBLE);
+                    tvRelative1_1.setImageResource(Util.globalFlowerList.get(relative1_1ID).getImgID());
+                    break;
+                case 1:  relative1_2ID = relatives.get(i);
+                    tvRelative1_2.setImageResource(Util.globalFlowerList.get(relative1_2ID).getImgID());
+                    break;
+                case 2:  relative2_1ID= relatives.get(i);
+                    tvRelative2_1.setImageResource(Util.globalFlowerList.get(relative2_1ID).getImgID());
+                    tvX1.setVisibility(View.VISIBLE);
+                    break;
+                case 3:  relative2_2ID = relatives.get(i);
+                    tvRelative2_2.setImageResource(Util.globalFlowerList.get(relative2_2ID).getImgID());
+                    break;
+                case 4:  relative3_1ID = relatives.get(i);
+                    tvRelative3_1.setImageResource(Util.globalFlowerList.get(relative3_1ID).getImgID());
+                    tvX2.setVisibility(View.VISIBLE);
+                    break;
+                case 5:  relative3_2ID = relatives.get(i);
+                    tvRelative3_2.setImageResource(Util.globalFlowerList.get(relative3_2ID).getImgID());
+                    break;
+            }
+
+        }
+
 
 
         boolean isCaught = Util.loadBoolFromPref("Flower", Integer.toString(getItem(position).getId()), Context.MODE_PRIVATE,mContext);

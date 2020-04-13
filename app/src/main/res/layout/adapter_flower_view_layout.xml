@@ -22,9 +22,9 @@
         android:layout_weight="15">
         <LinearLayout
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="45">
+            android:layout_weight="20">
             <TextView
                 android:gravity="left"
                 android:textAlignment="gravity"
@@ -52,34 +52,72 @@
             android:id="@+id/goldencan"/>
         <LinearLayout
             android:orientation="vertical"
-            android:layout_width="match_parent"
+            android:layout_width="80dp"
             android:layout_height="match_parent"
-            android:layout_weight="85">
-            <TextView
-                android:gravity="center"
-                android:textAlignment="gravity"
-                android:text=""
+            android:layout_weight="1">
+            <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/relative1view"
-                android:layout_weight="20"/>
-            <TextView
-                android:gravity="center_horizontal"
-                android:textAlignment="gravity"
-                android:visibility="invisible"
-                android:id="@+id/viewX"
-                android:text="x"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative1view1"/>
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textAlignment="center"
+                    android:visibility="invisible"
+                    android:id="@+id/viewX1"
+                    android:text="x"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="30"/>
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative1view2"/>
+            </LinearLayout>
+            <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50sp"/>
-            <TextView
-                android:gravity="center"
-                android:text=""
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative2view1"/>
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textAlignment="center"
+                    android:visibility="invisible"
+                    android:id="@+id/viewX2"
+                    android:text="x"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="30"/>
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative2view2"/>
+            </LinearLayout>
+            <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/relative2view"
-                android:layout_weight="35"/>
-
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative3view1" />
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:textAlignment="center"
+                    android:visibility="invisible"
+                    android:id="@+id/viewX3"
+                    android:text="x"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="30"/>
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:id="@+id/relative3view2" />
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>

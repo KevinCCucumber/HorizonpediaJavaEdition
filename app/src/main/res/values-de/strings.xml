@@ -14,7 +14,7 @@
     <string name="checkboxfiltercaught">Gefangene ausblenden</string>
     <string name="checkboxfilterobtained">Bereits erhaltene ausblenden</string>
     <string name="isCaught">Hab ich gefangen!</string>
-    <string name="isObtained">Habs gefunden!</string>
+    <string name="isObtained">Hab ich bereits!</string>
     <string name="optionSouthern">Südhalbkugel</string>
     <string name="lastMonth">letzter Monat!</string>
     <string name="title_activity_settings">Einstellungen:</string>
