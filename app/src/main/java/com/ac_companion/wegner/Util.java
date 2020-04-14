@@ -27,7 +27,7 @@ public class Util {
     public static ArrayList<Flower> globalFlowerList = new ArrayList<Flower>();
 
     //Globaler Werbebannerstatus:
-    public static final boolean adsEnabled = false; /////////////////////////////////////////////////////////
+    public static final boolean adsEnabled = true; /////////////////////////////////////////////////////////
 
     public static String getLanguage(){
         String language ="";

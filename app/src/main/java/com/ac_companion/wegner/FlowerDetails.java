@@ -75,7 +75,7 @@ public class FlowerDetails extends AppCompatActivity {
 
         ivBild.setImageResource(localFlower.getImgID());
         tvName.setText(localFlower.getName());
-        //tvType.setText(localFlower.getFlowerType());
+        tvType.setText(localFlower.getFlowerType());
 
         if (localFlower.getNeedsGoldenCan()){
             ivNeedsCan.setVisibility(View.VISIBLE);
