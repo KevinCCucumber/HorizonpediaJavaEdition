@@ -2,6 +2,33 @@ Buglist:
   	- u.a. Palettendoktorfisch ist verbuggt wenn er im letzten Monat ist (Schrift ist nicht in einer Zeile)
   	    Possible Fix: bei einem Zeilenumbruch im Namen sollen die Ortsangabe und die Uhrzeit nach unten geschoben werden
 
+  	- Cosmea:
+      Alles korrekt
+
+      Tulpe:
+      Alles Korrekt
+
+      Hainveilchen:
+      Blau x Orange = Orange*
+      Orange* x Orange* = Lila
+
+      Blaurose:
+      Lila x Orange = Rot*
+      Rot* x Rot* = Blau
+
+      Lilie:
+      Alles Korrekt
+
+      Purpuranemone:
+      Blau x Pink = Pink*
+      Pink* x Pink* = Lila
+
+      Purpurhyazinthe:
+      Orange x Orange = Lila
+
+      Chrysantheme:
+      Alles korrekt
+
 UI:
 - UI Kategorienspezifisch anzeigen, als würde man eine eigene App start (Farben und THemes etwas anpassen?)
 	
