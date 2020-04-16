@@ -9,8 +9,8 @@
     <string name="buttonSettings">Einstellungen</string>
     <string name="buttonDiscord">Community</string>
     <string name="txtcon">Willkommen auf deinem NookPhone</string>
-    <string name="checkboxcurrent">Momentan fangbar</string>
-    <string name="checkboxtoday">Heute fangbar</string>
+    <string name="checkboxcurrent">Jetzt gerade fangbar</string>
+    <string name="checkboxtoday">Diesen Monat fangbar</string>
     <string name="checkboxfiltercaught">Gefangene ausblenden</string>
     <string name="checkboxfilterobtained">Bereits erhaltene ausblenden</string>
     <string name="isCaught">Hab ich gefangen!</string>

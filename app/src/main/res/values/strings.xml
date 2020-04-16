@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ACNH Companion</string>
     <string name="disclaimer">All rights on the animal- and fossilepictures reserved by Nintendo. Animal Crossing trademark is owned by Nintendo. The Artworks for the main manu are create by Felix Arndt.</string>
-    <string name="buttonFish">Fishes</string>
+    <string name="buttonFish">Fish</string>
     <string name="buttonInsects">Insects</string>
     <string name="buttonFossils">Fossils</string>
     <string name="buttonFlowers">Flowers</string>
@@ -9,7 +9,7 @@
     <string name="buttonDiscord">Community</string>
     <string name="txtcon">Welcome to your NookPhone</string>
     <string name="checkboxcurrent">Currently catchable</string>
-    <string name="checkboxtoday">Catchable Today</string>
+    <string name="checkboxtoday">Catchable this month</string>
     <string name="checkboxfiltercaught">Don\'t show caught</string>
     <string name="checkboxfilterobtained">Don\'t show obtained</string>
     <string name="isCaught">Got it!</string>

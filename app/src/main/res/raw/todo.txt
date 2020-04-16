@@ -29,8 +29,6 @@ Buglist:
       Chrysantheme:
       Alles korrekt
 
-     - Fish statt Fishes
-     - catchable today -> catchable this month
 
 UI:
 - UI Kategorienspezifisch anzeigen, als würde man eine eigene App start (Farben und THemes etwas anpassen?)
