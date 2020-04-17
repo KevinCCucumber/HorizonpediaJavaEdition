@@ -30,8 +30,11 @@ public class FlowerDetails extends AppCompatActivity {
 
         //Insekt id via getInt holen und damit Insekt aus der globalen Liste Laden
         Intent mIntent = getIntent();
-        flowerId = mIntent.getIntExtra("FlowerDetails", 0);
-        localFlower = Util.getGlobalFlowerList().get(flowerId);
+        int listPosition;
+        listPosition = mIntent.getIntExtra("FlowerDetails", 0);
+        //flowerId = Util.getGlobalFlowerList().get(listPosition).getId();
+        localFlower = Util.getGlobalFlowerList().get(listPosition);
+        flowerId = localFlower.getId();
 
         // UI Elemente vorbereiten
         tvName = findViewById(R.id.nameviewflowerdetails);
@@ -94,24 +97,24 @@ public class FlowerDetails extends AppCompatActivity {
             switch (i){
                 case 0:  relative1_1ID = relatives.get(i);
                     tvX0.setVisibility(View.VISIBLE);
-                    tvRelative1_1.setImageResource(Util.globalFlowerList.get(relative1_1ID).getImgID());
+                    tvRelative1_1.setImageResource(Util.getFlowerfromList(relative1_1ID).getImgID());
                     break;
                 case 1:  relative1_2ID = relatives.get(i);
-                    tvRelative1_2.setImageResource(Util.globalFlowerList.get(relative1_2ID).getImgID());
+                    tvRelative1_2.setImageResource(Util.getFlowerfromList(relative1_2ID).getImgID());
                     break;
                 case 2:  relative2_1ID= relatives.get(i);
-                    tvRelative2_1.setImageResource(Util.globalFlowerList.get(relative2_1ID).getImgID());
+                    tvRelative2_1.setImageResource(Util.getFlowerfromList(relative2_1ID).getImgID());
                     tvX1.setVisibility(View.VISIBLE);
                     break;
                 case 3:  relative2_2ID = relatives.get(i);
-                    tvRelative2_2.setImageResource(Util.globalFlowerList.get(relative2_2ID).getImgID());
+                    tvRelative2_2.setImageResource(Util.getFlowerfromList(relative2_2ID).getImgID());
                     break;
                 case 4:  relative3_1ID = relatives.get(i);
-                    tvRelative3_1.setImageResource(Util.globalFlowerList.get(relative3_1ID).getImgID());
+                    tvRelative3_1.setImageResource(Util.getFlowerfromList(relative3_1ID).getImgID());
                     tvX2.setVisibility(View.VISIBLE);
                     break;
                 case 5:  relative3_2ID = relatives.get(i);
-                    tvRelative3_2.setImageResource(Util.globalFlowerList.get(relative3_2ID).getImgID());
+                    tvRelative3_2.setImageResource(Util.getFlowerfromList(relative3_2ID).getImgID());
                     break;
             }
 

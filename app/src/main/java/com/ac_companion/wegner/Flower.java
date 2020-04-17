@@ -42,7 +42,7 @@ public class Flower implements Catchable {
 
             requiresGoldenWateringCan = source.getBoolean("requires_gold_watering_can");
         }
-        Log.d("FLOWER", getName() + " " + getFlowerType() + " " + relativesIDs);
+        Log.d("FLOWER", getName() + " ID " + id + getFlowerType() + " " + relativesIDs);
     }
 
     public int getId() {

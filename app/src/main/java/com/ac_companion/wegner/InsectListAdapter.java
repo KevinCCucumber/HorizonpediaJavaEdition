@@ -60,6 +60,7 @@ public class InsectListAdapter extends ArrayAdapter<Insect> {
         tvName.setText(name);
         tvTimes.setText(times);
 
+
         if(getItem(position).isLastMonth(isCurrentCatchableActive || isTodayCatchable, isSouthernHemishereActive) == 0){
             //tvLastMonth.setVisibility(View.INVISIBLE);
             tvLastMonth.setWidth(0);

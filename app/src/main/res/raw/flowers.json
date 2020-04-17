@@ -224,11 +224,11 @@
       },
       {
         "flowers": [
-          14,
-          14
+          53,
+          53
         ],
         "requires_gold_watering_can": false,
-        "requires_cultivated_flowers": false
+        "requires_cultivated_flowers": true
       }
     ]
   },
@@ -243,6 +243,23 @@
         "flowers": [
           15,
           15
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "deu": "Stiefmütterchen*",
+      "eng": "orange pansies*"
+    },
+    "sources": [
+      {
+        "flowers": [
+          16,
+          18
         ],
         "requires_gold_watering_can": false,
         "requires_cultivated_flowers": false
@@ -325,6 +342,23 @@
     ]
   },
   {
+    "id": 54,
+    "name": {
+      "deu": "Liebesrose*",
+      "eng": "red roses*"
+    },
+    "sources": [
+      {
+        "flowers": [
+          23,
+          24
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": true
+      }
+    ]
+  },
+  {
     "id": 25,
     "name": {
       "deu": "Schwarzrose",
@@ -358,8 +392,8 @@
     "sources": [
       {
         "flowers": [
-          20,
-          20
+          54,
+          54
         ],
         "requires_gold_watering_can": false,
         "requires_cultivated_flowers": true
@@ -525,6 +559,23 @@
     ]
   },
   {
+    "id": 55,
+    "name": {
+      "deu": "Pinkanemone*",
+      "eng": "pink windflowers*"
+    },
+    "sources": [
+      {
+        "flowers": [
+          37,
+          38
+        ],
+        "requires_gold_watering_can": false,
+        "requires_cultivated_flowers": false
+      }
+    ]
+  },
+  {
     "id": 39,
     "name": {
       "deu": "Purpuranemone",
@@ -549,8 +600,8 @@
       },
       {
         "flowers": [
-          34,
-          37
+          55,
+          55
         ],
         "requires_gold_watering_can": false,
         "requires_cultivated_flowers": false
@@ -641,8 +692,8 @@
     "sources": [
       {
         "flowers": [
-          45,
-          45
+          44,
+          44
         ],
         "requires_gold_watering_can": false,
         "requires_cultivated_flowers": false

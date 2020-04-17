@@ -60,7 +60,8 @@ public class FlowerList extends AppCompatActivity {
         //Beim antippen eines Eintrages im Listview soll die Details Activity geöffnet werden
         mListView.setOnItemClickListener((parent, view, position, id) -> {
             Flower flower = (Flower) mListView.getItemAtPosition(position);
-            openFlowerDetails(flower);
+            Log.d(TAG, "Clicked on entry " + position + " with ID " + flower.getId() + " " + flower.getName());
+            openFlowerDetails(flower, position);
             //Log.d(TAG, "Name " + insect.getName());
         });
 
@@ -122,9 +123,9 @@ public class FlowerList extends AppCompatActivity {
         adapter.addAll(flowerList);
     }
 
-    private void openFlowerDetails(Flower flower){
+    private void openFlowerDetails(Flower flower, int listPosition){
         Intent intent = new Intent(FlowerList.this, FlowerDetails.class);
-        intent.putExtra("FlowerDetails", flower.getId());
+        intent.putExtra("FlowerDetails", listPosition);
         FlowerList.this.startActivity(intent);
     }
 

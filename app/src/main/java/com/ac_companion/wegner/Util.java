@@ -27,7 +27,7 @@ public class Util {
     public static ArrayList<Flower> globalFlowerList = new ArrayList<Flower>();
 
     //Globaler Werbebannerstatus:
-    public static final boolean adsEnabled = true; /////////////////////////////////////////////////////////
+    public static final boolean adsEnabled = false; /////////////////////////////////////////////////////////
 
     public static String getLanguage(){
         String language ="";
@@ -197,6 +197,17 @@ public class Util {
         return globalFlowerList;
     }
 
+    public static Flower getFlowerfromList(int idToGet){
+        Flower flower = null;
+
+        for (int i = 0; i<globalFlowerList.size(); i++){
+            if (globalFlowerList.get(i).getId() == idToGet){
+                flower = globalFlowerList.get(i);
+            }
+        }
+
+        return flower;
+    }
 
 
     //prefnames: "Settings", "Insects", "Fishes", "Fossils", savedObjectName = ObjectID aus Json
