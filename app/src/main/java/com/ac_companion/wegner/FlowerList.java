@@ -43,17 +43,17 @@ public class FlowerList extends AppCompatActivity {
 
         try {
             if (Util.getGlobalFlowerList().isEmpty()){
-                realFlowerList = Util.setGlobalFlowerList(flower_stream);
+                Util.setGlobalFilteredFlowerList(Util.setGlobalFlowerList(flower_stream));
             }else
             {
-                realFlowerList = Util.getGlobalFlowerList();
+                Util.setGlobalFilteredFlowerList(Util.getGlobalFlowerList());
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         //Listadapter erstellen
-        ArrayList<Flower> filteredFlowerList = (ArrayList<Flower>) realFlowerList.clone();
+        ArrayList<Flower> filteredFlowerList = (ArrayList<Flower>) Util.getGlobalfilteredFlowerList().clone();
         adapter = new FlowerListAdapter(this, R.layout.adapter_flower_view_layout, filteredFlowerList);
         mListView.setAdapter(adapter);
 
@@ -111,7 +111,7 @@ public class FlowerList extends AppCompatActivity {
 
     private void refreshFilter(FlowerListAdapter adapter){
         //Liste mit eisntellungen Filtern
-        ArrayList <Flower> flowerList = Util.filterTheList(realFlowerList, false, false, false,checkCaught.isChecked(),"Flower",this);
+        ArrayList <Flower> flowerList = Util.filterTheList(Util.getGlobalfilteredFlowerList(), false, false, false,checkCaught.isChecked(),"Flower",this);
         adapter.clear();
 
 
@@ -125,7 +125,7 @@ public class FlowerList extends AppCompatActivity {
 
     private void openFlowerDetails(Flower flower, int listPosition){
         Intent intent = new Intent(FlowerList.this, FlowerDetails.class);
-        intent.putExtra("FlowerDetails", listPosition);
+        intent.putExtra("FlowerDetails", flower.getId());
         FlowerList.this.startActivity(intent);
     }
 

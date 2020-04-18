@@ -16,7 +16,7 @@ android {
         applicationId "com.ac_companion.wegner"
         minSdkVersion 24
         targetSdkVersion 29
-        versionCode 11
+        versionCode 12
         versionName "1.1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

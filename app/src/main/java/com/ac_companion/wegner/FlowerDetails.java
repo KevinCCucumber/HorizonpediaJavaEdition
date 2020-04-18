@@ -31,10 +31,9 @@ public class FlowerDetails extends AppCompatActivity {
         //Insekt id via getInt holen und damit Insekt aus der globalen Liste Laden
         Intent mIntent = getIntent();
         int listPosition;
-        listPosition = mIntent.getIntExtra("FlowerDetails", 0);
+        flowerId = mIntent.getIntExtra("FlowerDetails", 0);
         //flowerId = Util.getGlobalFlowerList().get(listPosition).getId();
-        localFlower = Util.getGlobalFlowerList().get(listPosition);
-        flowerId = localFlower.getId();
+        localFlower = Util.getFlowerfromList(flowerId);
 
         // UI Elemente vorbereiten
         tvName = findViewById(R.id.nameviewflowerdetails);

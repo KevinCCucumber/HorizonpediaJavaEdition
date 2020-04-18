@@ -25,9 +25,10 @@ public class Util {
     public static ArrayList<Fish> globalFishList = new ArrayList<Fish>();
     public static ArrayList<Fossil> globalFossilList = new ArrayList<Fossil>();
     public static ArrayList<Flower> globalFlowerList = new ArrayList<Flower>();
+    public static ArrayList<Flower> globalfilteredFlowerList = new ArrayList<Flower>();
 
     //Globaler Werbebannerstatus:
-    public static final boolean adsEnabled = false; /////////////////////////////////////////////////////////
+    public static final boolean adsEnabled = true; /////////////////////////////////////////////////////////
 
     public static String getLanguage(){
         String language ="";
@@ -193,8 +194,16 @@ public class Util {
         return globalFlowerList;
     }
 
+    public static void setGlobalFilteredFlowerList (ArrayList<Flower> inputList) throws Exception {
+        globalfilteredFlowerList = inputList;
+    }
+
     public static ArrayList<Flower> getGlobalFlowerList(){
         return globalFlowerList;
+    }
+
+    public static ArrayList<Flower> getGlobalfilteredFlowerList(){
+        return globalfilteredFlowerList;
     }
 
     public static Flower getFlowerfromList(int idToGet){
@@ -203,6 +212,18 @@ public class Util {
         for (int i = 0; i<globalFlowerList.size(); i++){
             if (globalFlowerList.get(i).getId() == idToGet){
                 flower = globalFlowerList.get(i);
+            }
+        }
+
+        return flower;
+    }
+
+    public static Flower getFlowerfromfilteredList(int idToGet){
+        Flower flower = null;
+
+        for (int i = 0; i<globalfilteredFlowerList.size(); i++){
+            if (globalfilteredFlowerList.get(i).getId() == idToGet){
+                flower = globalfilteredFlowerList.get(i);
             }
         }
 
