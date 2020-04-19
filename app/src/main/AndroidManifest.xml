@@ -28,7 +28,7 @@
         <activity android:name=".FlowerList" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-5899740383904630~9341712675" />
+            android:value="ca-app-pub-5899740383904630~1981143118" />
     </application>
 
 </manifest>
