@@ -1407,8 +1407,8 @@
     "caught": false,
     "id": 27,
     "location": {
-      "deu": "Teich oberhalb Wasserfall",
-      "eng": "River (Clifftop)  Pond"
+      "deu": "oberhalb Wasserfall (Teich + Fluss) ",
+      "eng": "River (Clifftop) + Pond (Clifftop)"
     },
     "months_north": [
       false,
